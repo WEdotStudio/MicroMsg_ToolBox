@@ -1,0 +1,80 @@
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\App.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\EntryPage.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\FilePicker.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\MainPage.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\MicroMsg_Emotion_Center.g.resources
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\MicroMsg_Emotion_Center.Resources.AppResources.resources
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\MicroMsg_Emotion_Center.csproj.GenerateResource.Cache
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\MicroMsg_Emotion_Center.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\MicroMsg_Emotion_Center.pdb
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\resources.pri
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\AppxManifest.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\MicroMsg_Emotion_Center.build.appxrecipe
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\AppManifest.xaml
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\MicroMsg_Emotion_Center_Release_AnyCPU.xap
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\Google.ProtocolBuffersLite.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\MicroMsgSDK.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\MicroMsg_Emotion_Center.csprojResolveAssemblyReference.cache
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\MicroMsg_Emotion_Center.dll
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\MicroMsg_Emotion_Center.pdb
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\priconfig.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\priconfig.xml.intermediate
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\layout.resfiles
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\layout.resfiles.intermediate
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\resources.resfiles
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\resources.resfiles.intermediate
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\pri.resfiles
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\pri.resfiles.intermediate
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\qualifiers.txt
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\qualifiers.txt.intermediate
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\ProjectArchitectures.txt
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\MDILProjectFiles.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\XapCacheFile.xml
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\DialogSelecter.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\About.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\Settings.g.cs
+C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\Tail.g.cs
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\Assets\ApplicationIcon.png
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\MicroMsg_Emotion_Center.dll
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\MicroMsg_Emotion_Center.pdb
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\resources.pri
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\AppxManifest.xml
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\MicroMsg_Emotion_Center.build.appxrecipe
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\Properties\WMAppManifest.xml
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\AppManifest.xaml
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\MicroMsg_Emotion_Center_Release_AnyCPU.xap
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\MicroMsg_Emotion_Center.csprojResolveAssemblyReference.cache
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\App.g.cs
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\About.g.cs
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\EntryPage.g.cs
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\FilePicker.g.cs
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\MainPage.g.cs
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\Settings.g.cs
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\Tail.g.cs
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\MicroMsg_Emotion_Center.g.resources
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\MicroMsg_Emotion_Center.Resources.AppResources.resources
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\MicroMsg_Emotion_Center.csproj.GenerateResource.Cache
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\MicroMsg_Emotion_Center.dll
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\MicroMsg_Emotion_Center.pdb
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\priconfig.xml
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\priconfig.xml.intermediate
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\layout.resfiles
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\layout.resfiles.intermediate
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\resources.resfiles
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\resources.resfiles.intermediate
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\pri.resfiles
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\pri.resfiles.intermediate
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\qualifiers.txt
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\qualifiers.txt.intermediate
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\MultipleQualifiersPerDimensionFound.txt
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\ProjectArchitectures.txt
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\MDILProjectFiles.xml
+D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\XapCacheFile.xml

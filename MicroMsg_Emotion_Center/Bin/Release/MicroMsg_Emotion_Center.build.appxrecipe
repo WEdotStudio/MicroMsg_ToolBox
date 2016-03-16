@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NEW-PC</Machine>
+    <WindowsUser>new</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>cf5fd029-ac9b-4249-81bb-bfd1a6feb3a1</PackageIdentityName>
+    <IntermediateOutputPath>D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\MicroMsg_Emotion_Center.dll">
+      <PackagePath>MicroMsg_Emotion_Center.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\Google.ProtocolBuffersLite.dll">
+      <PackagePath>Google.ProtocolBuffersLite.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\MicroMsgSDK.dll">
+      <PackagePath>MicroMsgSDK.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\appicon.png">
+      <PackagePath>Assets\appicon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\favs.png">
+      <PackagePath>Assets\favs.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\file3.png">
+      <PackagePath>Assets\file3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\fileinwc.png">
+      <PackagePath>Assets\fileinwc.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\piece.png">
+      <PackagePath>Assets\piece.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\questionmark.png">
+      <PackagePath>Assets\questionmark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\save.png">
+      <PackagePath>Assets\save.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\settings.png">
+      <PackagePath>Assets\settings.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\Share.png">
+      <PackagePath>Assets\Share.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\smiley.png">
+      <PackagePath>Assets\smiley.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\tail.png">
+      <PackagePath>Assets\tail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Toolkit.Content\ApplicationBar.Add.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Toolkit.Content\ApplicationBar.Cancel.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Cancel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Toolkit.Content\ApplicationBar.Check.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Check.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Toolkit.Content\ApplicationBar.Delete.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Delete.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Toolkit.Content\ApplicationBar.Select.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Select.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\文件中心\Windows Phone\开发\应用\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

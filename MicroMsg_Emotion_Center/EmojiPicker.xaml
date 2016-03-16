@@ -1,0 +1,92 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="MicroMsg_Emotion_Center.EmojiPicker"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+   shell:SystemTray.IsVisible="True" shell:SystemTray.Opacity="0"
+    shell:SystemTray.ForegroundColor="White">
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid x:Name="TitlePanel" Grid.Row="0" Height="80">
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF0F9D58" Offset="0"/>
+                    <GradientStop Color="#FF0B8044" Offset="1"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+            <TextBlock Text="王尼玛の暴走" Margin="9,-7,0,0" FontSize="53.333"  HorizontalAlignment="Center" VerticalAlignment="Bottom"/>
+        </Grid>
+            
+
+
+        <!--ContentPanel - 在此处放置其他内容-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0">
+            <ScrollViewer>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Image x:Name="p1" Grid.Row="0" Grid.Column="0" Source="/Res/wnmdebz/1.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p2" Grid.Row="0" Grid.Column="1" Source="/Res/wnmdebz/2.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p3" Grid.Row="0" Grid.Column="2" Source="/Res/wnmdebz/3.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p4" Grid.Row="1" Grid.Column="0" Source="/Res/wnmdebz/4.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p5" Grid.Row="1" Grid.Column="1" Source="/Res/wnmdebz/5.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p6" Grid.Row="1" Grid.Column="2" Source="/Res/wnmdebz/6.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p7" Grid.Row="2" Grid.Column="0" Source="/Res/wnmdebz/7.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p8" Grid.Row="2" Grid.Column="1" Source="/Res/wnmdebz/8.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p9" Grid.Row="2" Grid.Column="2" Source="/Res/wnmdebz/9.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p10" Grid.Row="3" Grid.Column="0" Source="/Res/wnmdebz/10.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p11" Grid.Row="3" Grid.Column="1" Source="/Res/wnmdebz/11.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p12" Grid.Row="3" Grid.Column="2" Source="/Res/wnmdebz/12.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p13" Grid.Row="4" Grid.Column="0" Source="/Res/wnmdebz/13.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p14" Grid.Row="4" Grid.Column="1" Source="/Res/wnmdebz/14.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p15" Grid.Row="4" Grid.Column="2" Source="/Res/wnmdebz/15.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p16" Grid.Row="5" Grid.Column="0" Source="/Res/wnmdebz/16.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p17" Grid.Row="5" Grid.Column="1" Source="/Res/wnmdebz/17.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p18" Grid.Row="5" Grid.Column="2" Source="/Res/wnmdebz/18.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p19" Grid.Row="6" Grid.Column="0" Source="/Res/wnmdebz/19.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p20" Grid.Row="6" Grid.Column="1" Source="/Res/wnmdebz/20.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p21" Grid.Row="6" Grid.Column="2" Source="/Res/wnmdebz/21.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p22" Grid.Row="7" Grid.Column="0" Source="/Res/wnmdebz/22.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p23" Grid.Row="7" Grid.Column="1" Source="/Res/wnmdebz/23.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p24" Grid.Row="7" Grid.Column="2" Source="/Res/wnmdebz/24.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p25" Grid.Row="8" Grid.Column="0" Source="/Res/wnmdebz/25.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p26" Grid.Row="8" Grid.Column="1" Source="/Res/wnmdebz/26.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p27" Grid.Row="8" Grid.Column="2" Source="/Res/wnmdebz/27.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p28" Grid.Row="9" Grid.Column="0" Source="/Res/wnmdebz/28.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p29" Grid.Row="9" Grid.Column="1" Source="/Res/wnmdebz/29.png" Tap="Button_Click_1"/>
+                    <Image x:Name="p30" Grid.Row="9" Grid.Column="2" Source="/Res/wnmdebz/30.png" Tap="Button_Click_1"/>
+
+                </Grid>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

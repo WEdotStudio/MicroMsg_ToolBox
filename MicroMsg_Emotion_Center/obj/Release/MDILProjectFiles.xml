@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <XAPFiles>
+    <File>resources.pri</File>
+    <File>MicroMsg_Emotion_Center.dll</File>
+    <File>Assets\appicon.png</File>
+    <File>Assets\BadgeLogo.png</File>
+    <File>Assets\favs.png</File>
+    <File>Assets\file3.png</File>
+    <File>Assets\fileinwc.png</File>
+    <File>Assets\Logo.png</File>
+    <File>Assets\piece.png</File>
+    <File>Assets\questionmark.png</File>
+    <File>Assets\save.png</File>
+    <File>Assets\settings.png</File>
+    <File>Assets\Share.png</File>
+    <File>Assets\smiley.png</File>
+    <File>Assets\SquareTile150x150.png</File>
+    <File>Assets\SquareTile71x71.png</File>
+    <File>Assets\StoreLogo.png</File>
+    <File>Assets\tail.png</File>
+    <File>Assets\WideLogo.png</File>
+    <File>Toolkit.Content\ApplicationBar.Add.png</File>
+    <File>Toolkit.Content\ApplicationBar.Cancel.png</File>
+    <File>Toolkit.Content\ApplicationBar.Check.png</File>
+    <File>Toolkit.Content\ApplicationBar.Delete.png</File>
+    <File>Toolkit.Content\ApplicationBar.Select.png</File>
+    <File>AppManifest.xaml</File>
+    <File>Assets\ApplicationIcon.png</File>
+    <File>Google.ProtocolBuffersLite.dll</File>
+    <File>MicroMsgSDK.dll</File>
+    <File>WMAppManifest.xml</File>
+    <File>AppxManifest.xml</File>
+  </XAPFiles>
+  <APPXFiles />
+</Files>

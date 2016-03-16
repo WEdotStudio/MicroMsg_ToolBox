@@ -1,0 +1,8 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="MicroMsg_ToolBox" EntryPointType="MicroMsg_ToolBox.App" RuntimeVersion="6.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="MicroMsg_ToolBox" Source="MicroMsg_ToolBox.dll" />
+    <AssemblyPart x:Name="Google.ProtocolBuffersLite" Source="Google.ProtocolBuffersLite.dll" />
+    <AssemblyPart x:Name="MicroMsgSDK" Source="MicroMsgSDK.dll" />
+    <AssemblyPart x:Name="UmengAnalyticsWP8" Source="UmengAnalyticsWP8.dll" />
+  </Deployment.Parts>
+</Deployment>

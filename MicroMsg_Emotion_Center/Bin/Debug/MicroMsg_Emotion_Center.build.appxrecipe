@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NEW-PC</Machine>
+    <WindowsUser>Backup</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>cf5fd029-ac9b-4249-81bb-bfd1a6feb3a1</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Debug\MicroMsg_Emotion_Center.dll">
+      <PackagePath>MicroMsg_Emotion_Center.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Debug\Google.ProtocolBuffersLite.dll">
+      <PackagePath>Google.ProtocolBuffersLite.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Debug\MicroMsgSDK.dll">
+      <PackagePath>MicroMsgSDK.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\favs.png">
+      <PackagePath>Assets\favs.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\file3.png">
+      <PackagePath>Assets\file3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\piece.png">
+      <PackagePath>Assets\piece.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\save.png">
+      <PackagePath>Assets\save.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\smiley.png">
+      <PackagePath>Assets\smiley.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\1.png">
+      <PackagePath>Res\wnmdebz\1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\10.png">
+      <PackagePath>Res\wnmdebz\10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\11.png">
+      <PackagePath>Res\wnmdebz\11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\12.png">
+      <PackagePath>Res\wnmdebz\12.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\13.png">
+      <PackagePath>Res\wnmdebz\13.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\14.png">
+      <PackagePath>Res\wnmdebz\14.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\15.png">
+      <PackagePath>Res\wnmdebz\15.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\16.png">
+      <PackagePath>Res\wnmdebz\16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\17.png">
+      <PackagePath>Res\wnmdebz\17.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\18.png">
+      <PackagePath>Res\wnmdebz\18.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\19.png">
+      <PackagePath>Res\wnmdebz\19.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\2.png">
+      <PackagePath>Res\wnmdebz\2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\20.png">
+      <PackagePath>Res\wnmdebz\20.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\21.png">
+      <PackagePath>Res\wnmdebz\21.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\22.png">
+      <PackagePath>Res\wnmdebz\22.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\23.png">
+      <PackagePath>Res\wnmdebz\23.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\24.png">
+      <PackagePath>Res\wnmdebz\24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\25.png">
+      <PackagePath>Res\wnmdebz\25.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\26.png">
+      <PackagePath>Res\wnmdebz\26.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\27.png">
+      <PackagePath>Res\wnmdebz\27.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\28.png">
+      <PackagePath>Res\wnmdebz\28.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\29.png">
+      <PackagePath>Res\wnmdebz\29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\3.png">
+      <PackagePath>Res\wnmdebz\3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\30.png">
+      <PackagePath>Res\wnmdebz\30.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\4.png">
+      <PackagePath>Res\wnmdebz\4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\5.png">
+      <PackagePath>Res\wnmdebz\5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\6.png">
+      <PackagePath>Res\wnmdebz\6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\7.png">
+      <PackagePath>Res\wnmdebz\7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\8.png">
+      <PackagePath>Res\wnmdebz\8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz\9.png">
+      <PackagePath>Res\wnmdebz\9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\1.png">
+      <PackagePath>Res\wnmdebz_thumb\1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\10.png">
+      <PackagePath>Res\wnmdebz_thumb\10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\11.png">
+      <PackagePath>Res\wnmdebz_thumb\11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\12.png">
+      <PackagePath>Res\wnmdebz_thumb\12.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\13.png">
+      <PackagePath>Res\wnmdebz_thumb\13.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\14.png">
+      <PackagePath>Res\wnmdebz_thumb\14.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\15.png">
+      <PackagePath>Res\wnmdebz_thumb\15.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\16.png">
+      <PackagePath>Res\wnmdebz_thumb\16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\17.png">
+      <PackagePath>Res\wnmdebz_thumb\17.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\18.png">
+      <PackagePath>Res\wnmdebz_thumb\18.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\19.png">
+      <PackagePath>Res\wnmdebz_thumb\19.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\2.png">
+      <PackagePath>Res\wnmdebz_thumb\2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\20.png">
+      <PackagePath>Res\wnmdebz_thumb\20.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\21.png">
+      <PackagePath>Res\wnmdebz_thumb\21.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\22.png">
+      <PackagePath>Res\wnmdebz_thumb\22.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\23.png">
+      <PackagePath>Res\wnmdebz_thumb\23.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\24.png">
+      <PackagePath>Res\wnmdebz_thumb\24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\25.png">
+      <PackagePath>Res\wnmdebz_thumb\25.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\26.png">
+      <PackagePath>Res\wnmdebz_thumb\26.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\27.png">
+      <PackagePath>Res\wnmdebz_thumb\27.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\28.png">
+      <PackagePath>Res\wnmdebz_thumb\28.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\29.png">
+      <PackagePath>Res\wnmdebz_thumb\29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\3.png">
+      <PackagePath>Res\wnmdebz_thumb\3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\30.png">
+      <PackagePath>Res\wnmdebz_thumb\30.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\4.png">
+      <PackagePath>Res\wnmdebz_thumb\4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\5.png">
+      <PackagePath>Res\wnmdebz_thumb\5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\6.png">
+      <PackagePath>Res\wnmdebz_thumb\6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\7.png">
+      <PackagePath>Res\wnmdebz_thumb\7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\8.png">
+      <PackagePath>Res\wnmdebz_thumb\8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Res\wnmdebz_thumb\9.png">
+      <PackagePath>Res\wnmdebz_thumb\9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Backup\documents\visual studio 2013\Projects\MicroMsg_Emotion_Center\MicroMsg_Emotion_Center\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

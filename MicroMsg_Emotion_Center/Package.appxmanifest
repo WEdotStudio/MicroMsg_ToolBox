@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
+  <Identity Name="56367PatrickWu.45061FB2169A8" Publisher="CN=C71A2322-7B67-48A9-A85E-8DDCE68FA3A7" Version="1.0.13.8" />
+  <mp:PhoneIdentity PhoneProductId="cf5fd029-ac9b-4249-81bb-bfd1a6feb3a1" PhonePublisherId="fcf5ccbb-e250-4b8f-8a73-df0680d979c4" />
+  <Properties>
+    <DisplayName>微信工具箱</DisplayName>
+    <PublisherDisplayName>WPerfect Studio</PublisherDisplayName>
+    <Logo>Assets\ApplicationIcon.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.1</OSMinVersion>
+    <OSMaxVersionTested>6.3.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="xcf5fd029yac9by4249y81bbybfd1a6feb3a1x" Executable="AGHost.exe" EntryPoint="MainPage.xaml">
+      <m3:VisualElements DisplayName="微信工具箱" Square150x150Logo="Assets\ApplicationIcon.png" Square44x44Logo="Assets\ApplicationIcon.png" Description="MicroMsg_ToolKit" ForegroundText="light" BackgroundColor="#FFBC08">
+        <m3:DefaultTile Square71x71Logo="Assets\ApplicationIcon.png">
+        </m3:DefaultTile>
+        <m3:SplashScreen Image="Assets\SplashScreen.png" />
+      </m3:VisualElements>
+      <Extensions>
+        <Extension Category="windows.backgroundTasks" EntryPoint="AgHost.BackgroundTask">
+          <BackgroundTasks>
+            <Task Type="systemEvent" />
+          </BackgroundTasks>
+        </Extension>
+      </Extensions>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="removableStorage" />
+    <Capability Name="picturesLibrary" />
+    <Capability Name="musicLibrary" />
+    <Capability Name="videosLibrary" />
+    <Capability Name="internetClientServer" />
+  </Capabilities>
+  <Extensions>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>AgHostSvcs.dll</Path>
+        <ActivatableClass ActivatableClassId="AgHost.BackgroundTask" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+  </Extensions>
+</Package>

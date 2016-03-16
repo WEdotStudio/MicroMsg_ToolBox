@@ -1,0 +1,76 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="MicroMsg_ToolBox.About"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True" shell:SystemTray.Opacity="0"
+    shell:SystemTray.ForegroundColor="Black">
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid x:Name="TitlePanel" Grid.Row="0" Height="80">
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF00FD0C" Offset="0"/>
+                    <GradientStop Color="#FF00C909" Offset="1"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+            <TextBlock Text="关于" Margin="9,-7,0,0" FontSize="53.333"  HorizontalAlignment="Center" VerticalAlignment="Bottom"/>
+        </Grid>
+
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Image VerticalAlignment="Top" HorizontalAlignment="Center" Height="180" Width="180" Source="/Assets/appicon.png" Stretch="Fill"  Grid.Row="0"/>
+            <TextBlock Foreground="Black" Height="61" TextAlignment="Center" Grid.Row="1" TextWrapping="Wrap" HorizontalAlignment="Center" Width="163">
+        		<Run Text="WPerfect Studio"/>
+        		<LineBreak/>
+        		<Run Text="倾力呈现"/>
+            </TextBlock>
+            <Grid Grid.Row="3" HorizontalAlignment="Center">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Foreground="Black" Text="个人网站：" Grid.Row="0" Grid.Column="0" TextAlignment="Right"/>
+                <TextBlock Foreground="Black" Text="百度贴吧：" Grid.Row="1" Grid.Column="0" TextAlignment="Right"/>
+                <TextBlock Foreground="Black" Text="新浪微博：" Grid.Row="2" Grid.Column="0" TextAlignment="Right"/>
+                <TextBlock Foreground="Black" Text="Facebook：" Grid.Row="3" Grid.Column="0" TextAlignment="Right"/>
+                <TextBlock Foreground="Black" Text="http://www.wotingbook.cn/" Grid.Row="0" Grid.Column="1" TextAlignment="Left"/>
+                <TextBlock Foreground="Black" Text="@patrick330602" Grid.Row="1" Grid.Column="1" TextAlignment="Left"/>
+                <TextBlock Foreground="Black" Text="@patrick330602" Grid.Row="2" Grid.Column="1" TextAlignment="Left"/>
+                <TextBlock Foreground="Black" Text="WP Smile Series" Grid.Row="3" Grid.Column="1" TextAlignment="Left"/>
+               
+            </Grid>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

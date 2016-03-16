@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-T898JGKQSSR</Machine>
+    <WindowsUser>Patrick</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>cf5fd029-ac9b-4249-81bb-bfd1a6feb3a1</PackageIdentityName>
+    <IntermediateOutputPath>D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Bin\Release\MicroMsg_ToolBox.dll">
+      <PackagePath>MicroMsg_ToolBox.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Bin\Release\Google.ProtocolBuffersLite.dll">
+      <PackagePath>Google.ProtocolBuffersLite.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Bin\Release\MicroMsgSDK.dll">
+      <PackagePath>MicroMsgSDK.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Bin\Release\UmengAnalyticsWP8.dll">
+      <PackagePath>UmengAnalyticsWP8.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\appicon.png">
+      <PackagePath>Assets\appicon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\favs.png">
+      <PackagePath>Assets\favs.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\file3.png">
+      <PackagePath>Assets\file3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\fileinwc.png">
+      <PackagePath>Assets\fileinwc.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\piece.png">
+      <PackagePath>Assets\piece.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\questionmark.png">
+      <PackagePath>Assets\questionmark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\save.png">
+      <PackagePath>Assets\save.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\settings.png">
+      <PackagePath>Assets\settings.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\Share.png">
+      <PackagePath>Assets\Share.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\smiley.png">
+      <PackagePath>Assets\smiley.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\tail.png">
+      <PackagePath>Assets\tail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\File Center\Windows Phone\Developing\Application\MicroMsg_Emotion_Center\MicroMsg_ToolBox\Bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
